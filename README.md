@@ -1,6 +1,7 @@
 # DrokSchool
 
-_Developed in python3 and aimed at teachers of educational institutions_
+_Developed in python3 and aimed at teachers of educational institutions.
+Works on linux and windows, tested on Windows-10, Ubuntu 18.04 and Linux-Mint-19_
 
 ## How does it work? ##
 _Facilitates the management and manipulation of the notes or grades of students through a graphical interface made with the tkinter library that has python,
