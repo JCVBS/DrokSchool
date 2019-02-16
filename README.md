@@ -13,4 +13,4 @@ The available subjects are: Mathematics, Natural Siens, Social Studies, Language
 
 
 ## Improvements in the future? ##
- - wadwad
+ - Implement a new storage method: databases with MySQL
