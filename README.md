@@ -10,3 +10,7 @@ It will be possible to eliminate, add and rename the school years, each school y
 and rename the students the teacher wants.
 DrokSchool, calculates the averages of the students according to their qualifications, the qualifications are numerical, from the lowest qualification (0) to the highest (10, 20, 100, etc). It is also possible to add and eliminate the qualifications desired by the teacher, the student's qualifications regarding their assistance will not be taken into account when calculating the student's average (the teacher will decide according to his / her criteria to do with the points of assistance).
 The available subjects are: Mathematics, Natural Siens, Social Studies, Language and Literature, English, Physical Education, Aesthetic Culture and Assistance_
+
+
+## Improvements in the future? ##
+ - wadwad
