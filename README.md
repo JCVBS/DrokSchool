@@ -16,3 +16,5 @@ The available subjects are: Mathematics, Natural Siens, Social Studies, Language
  - Reprogram the graphical interface with PyQt5
  - Implement a new storage method: databases with MySQL
  - Improve the structure of the registry
+ - Implement an account recovery in case a teacher forgets his login password
+ - Implement an administrator user who manages and has access to all teacher accounts
