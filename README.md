@@ -1,9 +1,7 @@
 # DrokSchool
 
 _Developed in python3 and aimed at teachers of educational institutions
- 
-## Secreenchot ## 
- 
+
 ## How does it work? ##
 _Facilitates the management and manipulation of the notes or grades of students through a graphical interface made with the tkinter library that has python,
 Many teachers can register at the same time and to access their workspaces they will have to access by a login with username and password guaranteeing that only the teacher has access to the qualifications of the students of each school year.
