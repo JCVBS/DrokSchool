@@ -13,4 +13,6 @@ The available subjects are: Mathematics, Natural Siens, Social Studies, Language
 
 
 ## Improvements in the future? ##
+ - Reprogram the graphical interface with PyQt5
  - Implement a new storage method: databases with MySQL
+ - Improve the structure of the registry
